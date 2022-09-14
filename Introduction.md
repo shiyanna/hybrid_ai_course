@@ -59,5 +59,8 @@
 - нечеткая логика (FML).
 
 ---
+[Запись лекции](https://youtu.be/UpUVEFrYTNw)
+
+---
 
 [Тест по вводной лекции](https://forms.gle/4vk2ZPLs72REu7JZ7)
