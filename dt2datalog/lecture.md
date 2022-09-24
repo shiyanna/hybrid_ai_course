@@ -72,3 +72,6 @@
 
 ---
 [Запись лекции](https://youtu.be/DCYzkJNuFlU)
+
+---
+[Лабораторная работа](https://github.com/ldrbmrtv/hybrid_ai_course/blob/main/dt2datalog/task.md)
