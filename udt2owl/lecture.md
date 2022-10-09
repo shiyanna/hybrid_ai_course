@@ -39,5 +39,9 @@
  - создание экземпляра без класса
  - указание значений DataProperty на основе данных
  - запуск ризонера
+
+---
+[Запись лекции](https://youtu.be/xEf8GsOxvw8)
+
 ---
 [Лабораторная работа](https://github.com/ldrbmrtv/hybrid_ai_course/blob/main/udt2owl/task.md)
