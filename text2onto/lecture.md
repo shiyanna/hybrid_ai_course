@@ -42,3 +42,7 @@
 
 ---
 [Запись лекции](https://youtu.be/klX6o2_SoJ8)
+
+---
+[Лабораторная работа](https://github.com/ldrbmrtv/hybrid_ai_course/blob/main/text2onto/task.md)
+
