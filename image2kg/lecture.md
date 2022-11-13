@@ -4,4 +4,4 @@
 
 ---
 
-Лабораторная работа
+[Лабораторная работа](https://github.com/ldrbmrtv/hybrid_ai_course/blob/main/image2kg/task.md)
