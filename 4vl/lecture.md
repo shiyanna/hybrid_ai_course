@@ -7,7 +7,7 @@
 - [случайный лес](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 
 ## Многозначная логика
-- [теория](https://plato.stanford.edu/entries/logic-manyvalued/)
+- [неклассические логики](https://en.wikipedia.org/wiki/Non-classical_logic)
 - [3-значная логика](https://en.wikipedia.org/wiki/Three-valued_logic)
 - [4-значная логика](https://en.wikipedia.org/wiki/Four-valued_logic)
 - [паранепротиворечивая логика](https://en.wikipedia.org/wiki/Paraconsistent_logic)
