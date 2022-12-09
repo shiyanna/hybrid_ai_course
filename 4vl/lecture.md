@@ -1,7 +1,6 @@
 # Обучение ансамблей и многозначная логика
 
 ## Ансамбли
-- [распределенное обучение](https://en.wikipedia.org/wiki/Federated_learning)
 - [обучение ансамблей](https://scikit-learn.org/stable/modules/ensemble.html)
 - [бутстрэпинг](https://en.wikipedia.org/wiki/Bootstrapping_(statistics))
 - [случайный лес](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
