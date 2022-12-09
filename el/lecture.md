@@ -1,17 +1,16 @@
 # Федеративное обучение и эпистемическая логика
 
-## [Федеративное обучение](https://en.wikipedia.org/wiki/Federated_learning)
-
 ## Классификаторы
+- [Федеративное обучение](https://en.wikipedia.org/wiki/Federated_learning)
 - [наивный байесвоский классификатор](https://scikit-learn.org/stable/modules/naive_bayes.html)
 - [К ближайших соседей](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier)
 - [метод опорных векторов](https://scikit-learn.org/stable/modules/svm.html#svm-classification)
 
-## [Эпистемическая логика](https://en.wikipedia.org/wiki/Epistemic_modal_logic)
-- [модальные логики](https://en.wikipedia.org/wiki/Modal_logic)
-- cинтаксис
-- cемантика
-- логический вывод
+## Модальные логики
+- [эпистемическая логика](https://en.wikipedia.org/wiki/Epistemic_modal_logic)
+  - cинтаксис
+  - cемантика
+  - логический вывод
 - [доксастическая логика (логика мнений)](https://en.wikipedia.org/wiki/Doxastic_logic)
 
 ## Имплементация эпистемической логики в онтологии
