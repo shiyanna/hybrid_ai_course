@@ -1,4 +1,4 @@
-# Нечеткая логика
+# Извлечение нечетких систем и регрессия
 
 ## Нечеткая логика
 - [нечеткие множества](https://en.wikipedia.org/wiki/Fuzzy_set)
@@ -37,4 +37,4 @@
 
 ---
 
-Лабораторная работа
+[Лабораторная работа](https://github.com/ldrbmrtv/hybrid_ai_course/blob/main/fuzzy/task.md)
