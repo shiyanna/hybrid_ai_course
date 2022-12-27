@@ -7,3 +7,4 @@
 5. [Извлечение графов знаний из изображений](https://github.com/ldrbmrtv/hybrid_ai_course/blob/main/image2kg/lecture.md)
 6. [Обучение ансамблей и многозначная логика](https://github.com/ldrbmrtv/hybrid_ai_course/blob/main/4vl/lecture.md)
 7. [Федеративное обучение и эпистемическая логика](https://github.com/ldrbmrtv/hybrid_ai_course/blob/main/el/lecture.md)
+8. [Извлечение нечетких систем и регрессия](https://github.com/ldrbmrtv/hybrid_ai_course/blob/main/fuzzy/lecture.md)
