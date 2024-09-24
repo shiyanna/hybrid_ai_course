@@ -1,0 +1,26 @@
+names:
+- '0'
+- '1'
+- '10'
+- '11'
+- '12'
+- '13'
+- '14'
+- '2'
+- '3'
+- '4'
+- '5'
+- '6'
+- '7'
+- '8'
+- '9'
+nc: 15
+roboflow:
+  license: MIT
+  project: uno-cards-cyibx
+  url: https://app.roboflow.com/lec-5/uno-cards-cyibx/1
+  version: 1
+  workspace: lec-5
+test: ../test/images
+train: Uno-Cards-1/train/images
+val: Uno-Cards-1/valid/images

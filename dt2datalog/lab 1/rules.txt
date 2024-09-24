@@ -1,0 +1,8 @@
+ "(label[X] == 'no') <= (Recency_months[X] <= 6.5) & (Monetary_cc_blood[X] <= 1125.0) & (Time_months[X] <= 17.0)",
+ "(label[X] == 'no')",
+ "(label[X] == 'yes') <= (Time_months[X] <= 49.5)",
+ "(label[X] == 'no')",
+ "(label[X] == 'no') <= (Recency_months[X] <= 14.5) & (Time_months[X] <= 15.5)",
+ "(label[X] == 'no')",
+ "(label[X] == 'no') <= (Frequency_times[X] <= 4.5)",
+ "(label[X] == 'no')"
